@@ -4,10 +4,17 @@
 !.vscode/extensions.json
 !.vscode/keybindings.json
 !.vscode/settings.json
+# External dependencies
+!extern/
+!extern/**
 # Source code
 !src/
 !src/**
+# Auxiliary scripts
+!scripts/
+!scripts/**
 # Others
 !readme.md
 !license
 !.gitignore
+!source_me.bash
